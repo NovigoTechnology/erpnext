@@ -3,7 +3,7 @@ import inspect
 
 import frappe
 
-__version__ = "15.0.2+Novigo"
+__version__ = "15.0.3+Novigo"
 
 
 def get_default_company(user=None):
